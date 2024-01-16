@@ -21,7 +21,9 @@
 #{1,2,3,4,5} element to be searched 
 #is 5 and it is at index 4. So, the 
 #output is 4.
-#
+#Your Task:
+#The task is to complete the function search() which takes the array arr[], its size N and the element X as inputs and returns the index of first occurrence of X in the given array. 
+#If the element X does not exist in the array, the function should return -1.
 #Solution:
 
 class Solution:
